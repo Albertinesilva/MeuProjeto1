@@ -2,6 +2,6 @@ O projeto de Residência de Software é uma iniciativa que combina teoria e prá
 
 1º A etapa inicial compreende o módulo de programação imperativa - T3.
 
-2º A etapa seguinte compreende o módulo de programação orientado a objetos(POO).
+2º A etapa seguinte comprrende o módulo de programação basica em java, python e .net
 
-3º A etapa seguinte comprrende o módulo de programação basica em java, python e .net.
+3º A etapa seguinte compreende o módulo de programação orientado a objetos(POO).
