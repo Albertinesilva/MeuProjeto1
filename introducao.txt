@@ -8,6 +8,4 @@ O projeto de Residência de Software é uma iniciativa que combina teoria e prá
 
 4º Programação avançada
 
-5º Exercicios auxiliares
-
-6º Encerramento
+5º Encerramento
